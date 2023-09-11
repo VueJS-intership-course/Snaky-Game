@@ -1,13 +1,15 @@
-You need to implement app about time table for public transport in Netherlands. Public API with endpoints is avaiable at https://github.com/koch-t/KV78Turbo-OVAPI/wiki/
-Specifically you should visualize table with journeys, which are avaialbe from https://github.com/koch-t/KV78Turbo-OVAPI/wiki/Journey, and after selecting one of the journeys you hsould visualize it on Openalyers map (https://openlayers.org/).
+You need to implement app about time table for public transport in Netherlands. Public API with endpoints is available at https://github.com/koch-t/KV78Turbo-OVAPI/wiki/
+Specifically you should visualize table with journeys, which are available from https://github.com/koch-t/KV78Turbo-OVAPI/wiki/Journey, and after selecting one of the journeys you should visualize it on Openalyers map (https://openlayers.org/).
 
-Layout for this page should be followiing:
+Also selected journey should be stored in the URL and based on this URL if journey passed in it should be selected in the table.
+
+Layout for this page should be following:
 
 ```
   | Table with journies|  |                   |
   |  Jouurny 1 	    |	  |                   |
   |  Jouurny 2 	    |     |   Openalyers MAP  |
-  | *  Jouurny 3    |     |                   |
+  | * Jouurny 3    |     |                   |
   |  Jouurny 4 	    |     |                   |
 ```
 If no journey selected you should show text "Please select journey" in place of the map
