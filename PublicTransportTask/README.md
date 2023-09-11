@@ -22,5 +22,5 @@ After displaying journey on the map, user should be able to click on the stop an
 
  Bonus task colorize PASSED stops in different color.
 
-You 
+You should implement it without using any store like Vuex or Pinia
 
