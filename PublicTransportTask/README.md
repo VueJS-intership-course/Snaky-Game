@@ -1,5 +1,5 @@
 You need to implement app about time table for public transport in Netherlands. Public API with endpoints is available at https://github.com/koch-t/KV78Turbo-OVAPI/wiki/
-Specifically you should visualize table with journeys, which are available from https://github.com/koch-t/KV78Turbo-OVAPI/wiki/Journey, and after selecting one of the journeys you should visualize it on Openalyers map (https://openlayers.org/).
+Specifically you should visualize table with journeys, which are available from https://github.com/koch-t/KV78Turbo-OVAPI/wiki/Journey, and after selecting one of the journeys you should visualize it on Openlayers map (https://openlayers.org/).
 
 Also selected journey should be stored in the URL and based on this URL if journey passed in it should be selected in the table.
 
