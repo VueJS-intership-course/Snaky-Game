@@ -14,7 +14,7 @@ export default defineConfig({
   server: {
     hmr: true,
     open: true,
-    port: 8080,
+    // port: 8080,
     proxy: {
       [constants.DEV.API.TRANSPORT.PROXY_PATH]: {
         target: constants.DEV.API.TRANSPORT.BASE_URL,
