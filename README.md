@@ -47,4 +47,4 @@ Imagine that you are working as a part of team and you should use git flow way t
 
 Feel free to ask any question during the development. Good luck and have a snaky week :)
 
-
+Bonus task implement storing user score with "indexDB"
