@@ -4,7 +4,7 @@ Users will be able to create, organize, and track various aspects of their event
 
 Technology Stack:
 
-Front-end: Vue.js framework with Bootstrap 5 for responsive UI design, moment/luxon js, highcharts, SASS.
+Front-end: Vue.js framework with Bootstrap 5 for responsive UI design, moment/luxon js, highcharts, SASS, Pinia.
 Back-end: Firebase for data storage, authentication, and real-time updates.
 
 Key Features:
